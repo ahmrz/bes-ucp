@@ -7,6 +7,8 @@ The Unit Commitment Problem (UCP) corresponds to the planning of power generatio
 
 [Complete journal paper](Paper.pdf).
 
+[Supplementary materials](Supplementary.pdf).
+
 ## Datasets used
 
 UCP datasets are selected based on the number of units, i.e. 4-, 10-, 20-, 40-, 60-, 80-, and 100-units [2]. The 4-unit properties and hourly demands are listed below:
